@@ -1,1 +1,1 @@
-[![icon demo](https://raw.githubusercontent.com/c-bloxd/bloxd-awards/main/assets/images/Bg.png)](https://c-bloxd.github.io/bloxd-awards/)
+<img src="./assets/images/Bg.png" height="50" width="1200" alt="COOL">
