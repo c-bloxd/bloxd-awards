@@ -1,4 +1,4 @@
-
+//geeg o_-
 document.addEventListener("DOMContentLoaded", () => {
     const voteBtns = document.querySelectorAll("#VoteBtn");
     const votelinkBtns = document.querySelectorAll("#VoteLinkBtn");
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 
-/* might not use this shit but is not like a countdown type bs until the day of the event  "Mr GEORGECR"
+/* might not use this shit but is like a countdown type bs until the day of the event  "Mr GEORGECR"
 const awardDate = new Date("2026-12-31T20:00:00+02:00").getTime();
 
 const countdown = setInterval(() => {
