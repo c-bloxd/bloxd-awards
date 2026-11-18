@@ -1,4 +1,4 @@
-# 🏆 Bloxd Awards 2026
+# 🏆 Bloxd Awards 2026 [Click here](https://c-bloxd.github.io/bloxd-awards/)
 
 Welcome to the official **Bloxd Awards 2026** website repository!
 
