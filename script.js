@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const voteBtns = document.querySelectorAll("#VoteBtn");
     const votelinkBtns = document.querySelectorAll("#VoteLinkBtn");
     const trailerVideo = document.getElementById("TrailerVideo");
-    const youtubeLink = "https://www.youtube.com/watch?v=zskd-IbuXxY";
+    const youtubeLink = "https://www.youtube.com/";//watch?v=zskd-IbuXxY
 
     voteBtns.forEach((voteBtn) => {
         voteBtn.addEventListener("click", () => {
@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
             window.onYouTubeIframeAPIReady = function () {
                 new YT.Player("youtube-player", {
-                    videoId: "zskd-IbuXxY",
+                    videoId: "",
                     playerVars: {
                         autoplay: 1
                     },
