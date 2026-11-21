@@ -44,5 +44,3 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 });
 //end look away mr space guy
-
-*/
